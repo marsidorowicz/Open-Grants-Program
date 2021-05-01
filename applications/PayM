@@ -42,41 +42,38 @@ We expect the teams to already have a solid idea about your project's expected f
 
 Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem?
-* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-* What need(s) does your project meet?
-* Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
-  * If so, how is your project different?
-  * If not, are there similar projects in related ecosystems?
+* Project intent to provide staking in any chain using Polkadot and Kusama
+* The target is to create portfolio page with exchange, along with staking, allowing to invest in real estate. Token release will allow to participate those who pass KYC.
+* Our project will help to keep investements under control by providing all in one solution
+* No similar project known
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
-* Name of team leader
-* Names of team members 
+* Mariusz Sidorowicz
+* Krzysztof Kałamarski
 
 ### Contact
 
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. john@duo.com)
-* **Website:**
+* **Contact Name:** Mariusz Sidorowicz
+* **Contact Email:** marsidorowicz@gmail.com
+* **Website:** apartamenty-zakopane-msc.pl
 
 ### Legal Structure
 
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-* **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+* **Registered Address:** ul. Chłabówka 29, 34-500 Zakopane, VAT PL6272559931
+* **Registered Legal Entity:** Sidorowicz Mariusz Firma Handlowo Usługowa MSC
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+website creation, real estate management, 10 years of experience in renting apartments, JS developers, Python Developers
 
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
 
 ### Team Code Repos
 
-* https://github.com/<your_repo_1>
-* https://github.com/<your_repo_2>
+* https://github.com/marsidorowicz
+* https://github.com/kkalamarski
 
 ### Team LinkedIn Profiles
 
